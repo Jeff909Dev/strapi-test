@@ -1,8 +1,4 @@
-{
-	"schemaVersion" :1 ,
-	"dockerfileLines" :[
-		"FROM nrel/api-umbrella",
-		"ADD ./config /etc/api-umbrella",
-		"EXPOSE 80 443"
-	]
-}
+ {
+  "schemaVersion": 2,
+  "templateId": "strapi/latest"
+ }
