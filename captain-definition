@@ -1,4 +1,4 @@
- {
-  "schemaVersion": 2,
-  "templateId": "strapi"
- }
+{
+ "schemaVersion": 2,
+ "templateId": "strapi/strapi:latest"
+}
